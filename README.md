@@ -6,7 +6,7 @@
 
 This project provides multi-threading that is compatible with PHP based on Posix Threads.
 
-## Highlights
+## Highlightss
 
 * An easy to use, quick to learn OO Threading API for PHP5.3+
 * Execute any and all predefined and user declared methods and functions, including closures.
